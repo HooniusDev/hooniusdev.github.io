@@ -3,7 +3,7 @@
 
 This be crazy 
 
-```python linenos
+```python
 <code text [highlight_lines_extra="2,3"]>
 extends PanelContainer
 
