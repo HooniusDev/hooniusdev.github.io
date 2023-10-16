@@ -1,5 +1,5 @@
 Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+Hello World, I'm Flatus doing minesweeper tutorial..
 
 Or maybe what you plan to blog about.
