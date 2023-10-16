@@ -3,7 +3,7 @@
 
 This be crazy 
 
-```python
+```gdscript
 extends PanelContainer
 
 #Cache reference to Minefield TileMap
