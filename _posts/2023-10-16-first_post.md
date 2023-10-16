@@ -4,7 +4,6 @@
 This be crazy 
 
 ```python
-<code text [highlight_lines_extra="2,3"]>
 extends PanelContainer
 
 #Cache reference to Minefield TileMap
