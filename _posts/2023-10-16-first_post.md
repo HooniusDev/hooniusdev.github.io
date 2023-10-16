@@ -3,7 +3,7 @@
 
 This be crazy 
 
-```gdscript
+```gdscript {.line-numbers}
 extends PanelContainer
 
 #Cache reference to Minefield TileMap
