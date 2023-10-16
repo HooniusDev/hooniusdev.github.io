@@ -21,7 +21,3 @@ func _gui_input(event: InputEvent) -> void:
             #print to console what cell was RIGHT clicked
             print("cell right clicked: " , mouse_cell)`
 ```
-{% highlight python linenos %}
-func foo
-  print("foo")
-{% endhighlight %}
