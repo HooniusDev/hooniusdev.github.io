@@ -23,9 +23,7 @@ theme: "minima"
 
 rss: rss
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: false
+markdown: kramdown
     
 plugins:
   - jekyll-feed
